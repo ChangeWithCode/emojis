@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+.card-body 
+{
+  height: 150px;
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card-title 
+{
+   font-size: 50px;
+}
+
+.search{
+  background: #212529;
+  padding: 14px 22px;
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+  color: white;
+  outline: none;
+  border: none;
+  font-weight: 500;
+  border-radius: 6px;
+  transition: 0.4s;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.scroll-to-top
+{
+  background-color: #212529 !important;
+}
+
+#btn
+{
+  background-color: #212529;
+}
