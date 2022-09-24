@@ -149,7 +149,7 @@ onClick={(e) =>
     e.preventDefault();
     updateData();
 }}
->Primary</button></div>
+>Show More</button></div>
 
   </div>
 </div>
